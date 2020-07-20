@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SNC_app</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">verify</string>
+    <string name="Name">Name</string>
+    <string name="std">Class</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="enter_password">Enter password</string>
+    <string name="verify_password">Verify password</string>
+    <string name="submit">Submit</string>
+    <string name="already_have_an_account_go_to_sign_in">Already have an account? Go to sign in.</string>
+    <string name="sign_up">Sign Up:</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In.</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="new_user">New User?</string>
+    <string name="text_view">Sign Up</string>
+    <string name="check">Continue</string>
+    <string name="type_password">Type Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="video_playing">Video Playing:</string>
+
+
+
+</resources>
